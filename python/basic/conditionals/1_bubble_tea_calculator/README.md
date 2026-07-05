@@ -1,4 +1,4 @@
-# Exercise 1: Bubble Tea Shop Calculator 🧋
+# Bubble Tea Shop Calculator 🧋
 
 ## The Story
 
@@ -65,3 +65,6 @@ After you've added up the base price and the toppings, check
 
 Variables, `if` / `elif` / `else`, arithmetic, and writing a function that
 `return`s a value. That's most of what you need to build much bigger things.
+
+---
+Next: [arcade_ticket_booth](../2_arcade_ticket_booth/)

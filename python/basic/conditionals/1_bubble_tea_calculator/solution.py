@@ -1,5 +1,5 @@
 """
-Exercise 1: Bubble Tea Shop Calculator
+Exercise: Bubble Tea Shop Calculator
 
 Finish the function below. See README.md for the full story and rules.
 """

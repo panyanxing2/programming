@@ -1,5 +1,5 @@
 """
-Test file for Exercise 1: Bubble Tea Shop Calculator
+Test file for: Bubble Tea Shop Calculator
 
 Just run:
 
